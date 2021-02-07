@@ -8,4 +8,4 @@ Hello! My name is Palida Suwanpromma. You can call me Som. I use she/her/hers as
 I'm taking the Telling Stories with Data course this mini semester. I worked with data throughout my career journey, and I plan to continue doing it in the future. Therefore, I hope to sharpen my skills and learn more tools in data visualization. More importantly, become more effective in conveying the ideas backed up by data will set me up for success in any future job positions.
 
 ## Portfolio
-I'll post my data visualizations here!
+I'll post my data visualizations here!!
