@@ -1,6 +1,6 @@
-# Assignment 2: OECD Data
+# Assignment 2: Visualizing Debt-to-GDP ratios
 
-## Bar chart showing Debt-to-GDP ratio in 2018
+## Bar chart showing Debt-to-GDP ratios in 2018
 <iframe src="https://data.oecd.org/chart/6gCS" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gCS" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 ## Grid of Line Charts showing comparison between Debt-to-GDP ratio trends among OECD countries
