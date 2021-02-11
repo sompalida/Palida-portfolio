@@ -9,3 +9,6 @@ I'm taking the Telling Stories with Data course this mini semester. I worked wit
 
 ## Portfolio
 I'll post my data visualizations here!!
+
+[Assignment 2 - OECD Data](https://sompalida.github.io/Palida-portfolio/oecd_data.html)
+
