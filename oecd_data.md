@@ -6,7 +6,7 @@
 ## Grid of Line Charts showing comparison between Debt-to-GDP ratio trends among OECD countries
 <div class="flourish-embed flourish-chart" data-src="visualisation/5261187"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Japan's Debt-to-GDP ratio compared to other countries
+## Japan's Debt-to-GDP ratio compared to other countries
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5270091"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [Back to main page](https://sompalida.github.io/Palida-portfolio/)
