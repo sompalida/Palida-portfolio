@@ -27,3 +27,5 @@ I think that testing the sketches with other people is very helpful. The process
 Therefore, I went on with the design in the first sketch. However, when I input the real data, I found that the message was clearer if I chose the grouped column chart instead of the stacked column chart I used in the sketch. The grouped column chart makes it easier to compare within public and private HBCU enrollment among the years, and it was easier to recognize the declining trend of public HBCU enrollment in the more recent years. In terms of colors, I utilized the tools mentioned in class (https://coolors.co/) to pick a visually appealing color theme and ensure that people with colorblindness would be able to explore my chart without confusion.
 
 **Below is my final redesigned visualization.**
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5353429"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
