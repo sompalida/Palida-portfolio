@@ -10,12 +10,14 @@ The original chart visualizes the trend in Public and Private HBCU enrollment as
 
 I began the redesign process by critiquing the original chart using the heuristic model provided in class. I looked at this visualization from different perspectives and found that the chart type and the colors were the main points that I would like to change in the redesign to make the chart clearer to the audience. Therefore, I created four different versions of sketches using different chart types and colors, and discussed them with two of my classmates. The four sketches are as follows:
 
+![](/sketch1-2.jpg)
 
+![](/sketch3-4.jpg)
 
-A set of stacked column chart visualizing a trend in public and private enrollment, with a line chart showing the percentage of female students
-2 separated stacked column charts. One showing a trend in public and private enrollment, the other showing the trend in the proportion of male and female students. The two charts are in different color themes.
-2 separated charts. One is a stacked column chart showing a trend in public and private enrollment, the other is an area chart showing a percentage of female students. The two charts are in different color themes.
-2 sets of stacked column charts showing together the proportion of male in private HBCU, male in public HBCU, female in public HBCU, and female in private HBCU
+1. A set of stacked column chart visualizing a trend in public and private enrollment, with a line chart showing the percentage of female students.
+2. 2 separated stacked column charts. One showing a trend in public and private enrollment, the other showing the trend in the proportion of male and female students. The two charts are in different color themes.
+3. 2 separated charts. One is a stacked column chart showing a trend in public and private enrollment, the other is an area chart showing a percentage of female students. The two charts are in different color themes.
+4. 2 sets of stacked column charts showing together the proportion of male in private HBCU, male in public HBCU, female in public HBCU, and female in private HBCU
 
 The two classmates provided similar feedback to my sketches. They both preferred the first sketch. They commented that it gave a clear and complete picture of the data, and they did not find a need to separate the messages into two charts as in sketch #2 and #3. 
 Looking at sketch #1, they were able to explain the main message of the chart and identified the target audience of the chart without confusion. Conversely, each of them translated sketch #4 in a different way, and they found it confusing that I used two shades of pink and blue. One of them also commented that sketch #4 would look very messy and crowded when I use it to visualize the whole dataset that includes almost 40 years of data, which was the point that I’d never thought of prior to the discussion. They also provided other useful comments such as comments on colors, chart title, etc. that I incorporated into my final visualization.
