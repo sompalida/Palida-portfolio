@@ -11,5 +11,6 @@ I'm taking the Telling Stories with Data course this mini semester. I worked wit
 I'll post my data visualizations here!!
 
 [Assignment 2 - OECD Data](https://sompalida.github.io/Palida-portfolio/oecd_data.html)
+
 [Assignment 3&4 Critique by Design - HBCU Enrollment Data](https://sompalida.github.io/Palida-portfolio/assignment3-4.html)
 
