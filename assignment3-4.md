@@ -28,6 +28,8 @@ Looking at sketch #1, they were able to explain the main message of the chart an
 
 I think that testing the sketches with other people is very helpful. The process provided new perspectives to my prototype, and helped me answer the questions that I was not clear about. For example, prior to the discussion, I was worried that having two Y-axes would make sketch #1 confusing to the audience and I assumed that they would prefer sketch #2 and #3 over sketch #1. However, talking to them disproved my assumption as the audience did not think that sketch #1 was confusing at all, and they liked it the most among the four sketches.
 
+## Creating the final visualization
+
 Therefore, I went on with the design in the first sketch. However, when I input the real data, I found that the message was clearer if I chose the grouped column chart instead of the stacked column chart I used in the sketch. The grouped column chart makes it easier to compare within public and private HBCU enrollment among the years, and it was easier to recognize the declining trend of public HBCU enrollment in the more recent years. In terms of colors, I utilized the tools mentioned in class (https://coolors.co/) to pick a visually appealing color theme and ensure that people with colorblindness would be able to explore my chart without confusion.
 
 ## Final visualization
