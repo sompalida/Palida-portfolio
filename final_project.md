@@ -1,6 +1,5 @@
-# Page created for Final Project
+# Final Project: #StopAsianHate
 
-Final Project: #StopAsianHate
 ## An outline
 In the final project, I plan to visualize hate crime data on Asians in the US. There have been rising incidents, especially against the senior population, since the covid-19 pandemic. The recent incident in San Francisco resulted in the death of an 84-year-old Thai man. There were also a lot of other hate crimes in other areas in the US. I would like to bring this issue into awareness of people outside the Asian and Asian-American community. I started developing the story by thinking from the reader’s perspective.
 
