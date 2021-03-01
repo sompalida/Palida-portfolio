@@ -7,7 +7,7 @@ In the final project, I plan to visualize hate crime data on Asians in the US. T
 
 With this goal in mind, I plan to point out the rise in the recent hate crimes, starting by showing a few video footages of hate violence against Asians to generate strong emotions for the audience, then broaden it to visualize the rising crimes against the Asian population compared to people of other ethnicities since the covid-19 pandemic. Furthermore, I plan to explore the data to find out if the violence against the Asian is just the recent trend, or is it a systemic problem that has been continued for a long time. Lastly, I will introduce the goal of this project, which is to bring this issue into the limelight, and trigger the audience to take action to help end this problem. I will use a success story of the #BlackLivesMatter movement to inspire the audience that if we are aware of the problem and speak out, the problem will be uncovered and that our voices can generate a big social movement to the mass. 
 
-The sketch of the story arc is as included below:
+The sketch of the story arc is included below:
 
 <p>
     <img src="https://github.com/sompalida/Palida-portfolio/raw/main/finalp_arc.jpg" alt="finalp_arc.jpg" width="656" height="507" />&nbsp;&nbsp;
