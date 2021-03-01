@@ -9,11 +9,6 @@ With this goal in mind, I plan to point out the rise in the recent hate crimes, 
 
 The sketch of the story arc is as included below:
 <p>
-    <img src="https://canvas.cmu.edu/users/50320/files/6083336/preview?verifier=UzlXk9Qg9IVMfjJJ5ryCM2mISed2hJM14SnL2Vgx" alt="01D8D827-397D-4F13-9C98-5E53520B97BF.jpg" width="656" height="507" />&nbsp;&nbsp;
-</p>
-
-
-<p>
     <img src="https://github.com/sompalida/Palida-portfolio/blob/main/finalp_arc.jpg" alt="finalp_arc.jpg" width="656" height="507" />&nbsp;&nbsp;
 </p>
 ## Initial sketches
