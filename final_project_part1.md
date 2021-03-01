@@ -14,7 +14,7 @@ The sketch of the story arc is as included below:
 
 
 <p>
-    <img src="https://sompalida.github.io/Palida-portfolio/finalp_arc.jpg" alt="finalp_arc.jpg" width="656" height="507" />&nbsp;&nbsp;
+    <img src="https://github.com/sompalida/Palida-portfolio/blob/main/finalp_arc.jpg" alt="finalp_arc.jpg" width="656" height="507" />&nbsp;&nbsp;
 </p>
 ## Initial sketches
 
