@@ -14,8 +14,22 @@ The sketch of the story arc is as included below:
 </p>
 
 ## Initial sketches
+
+I created some sketches based on the outline mentioned above. The initial sketches are as follows:
+
 <p>
     <img src="https://github.com/sompalida/Palida-portfolio/raw/main/finalp_sketch1.jpg" width="648" height="839" />&nbsp;&nbsp;
+</p>
+
+<p>
+    <img src="https://github.com/sompalida/Palida-portfolio/raw/main/finalp_sketch2.jpg" width="648" height="839" />&nbsp;&nbsp;
+</p>
+
+<p>
+    <img src="https://github.com/sompalida/Palida-portfolio/raw/main/finalp_sketch3.jpg" width="648" height="839" />&nbsp;&nbsp;
+</p>
+<p>
+    <img src="https://github.com/sompalida/Palida-portfolio/raw/main/finalp_sketch4.jpg" width="648" height="839" />&nbsp;&nbsp;
 </p>
 
 
