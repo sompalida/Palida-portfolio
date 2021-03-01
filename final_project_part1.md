@@ -35,8 +35,11 @@ I created some sketches based on the outline mentioned above. The initial sketch
 
 ## The data
 The primary data source of this project will be the [Federal Bureau of Investigation](https://crime-data-explorer.fr.cloud.gov/downloads-and-docs). The source contains data on hate crime incidents including the victim and the offender data, locations, bias motivation, etc.
+
 Additional source I will look into is the [US Census Bureau](https://www.census.gov/programs-surveys/acs/data/race-aian.html) on race/ethnicity data and geographical distribution in the US.
+
 Also, because I plan to use Black Lives Matter trend as an example of a successful social movement against racism, and lead the audience to the call-to-action part. I will also incorporate [Google trends data](https://trends.google.com/trends/?geo=US) and [Twitter trends data](https://www.pewresearch.org/fact-tank/2020/06/10/blacklivesmatter-surges-on-twitter-after-george-floyds-death/) on the #BlackLivesMatter hashtag in my story.
+
 I might also include the [COVID-19 daily cases data](https://healthdata.gov/dataset/covid-19-daily-cases-deaths-and-hospitalizations) to visualize the rise of hate crimes against Asians even though the covid cases declined.
 
 ## Method and medium
