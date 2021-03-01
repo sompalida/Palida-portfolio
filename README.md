@@ -14,3 +14,5 @@ I'll post my data visualizations here!!
 
 [Assignment 3&4 Critique by Design - HBCU Enrollment Data](https://sompalida.github.io/Palida-portfolio/assignment3-4.html)
 
+[Final Project Part 1 - Overview](https://sompalida.github.io/Palida-portfolio/final_project_part1.html)
+
