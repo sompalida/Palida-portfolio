@@ -24,8 +24,11 @@ After identifying the individuals, I prepared the user interview questions and s
 
 I was able to interview 3 individuals as listed below:
 
+
 Person 1: An Asian student who is in the “Telling stories with Data” course. This person is familiar with my project and the topic as they gave feedback on my Part I before.
+
 Person 2: A non-Asian who is not familiar with my project, and has a little knowledge about the issue.
+
 Person 3: An Asian-American who has not seen my project before, but is familiar with the Asian-American hate crimes issue.
 
 
