@@ -54,13 +54,13 @@ Closing: “Thank you very much for your time!”
 
 The answers to the questions are listed below:
 
-**“Who do you think is the main audience for this web page?”
+**“Who do you think is the main audience for this web page?”**
 
 All of the users provided very similar answers. They mentioned the general public within the US as the main audience. Person 3 further mentioned the younger population because the medium of this is a web page, and that they are more engaged with the recent social movement on racial issues.
 
 Their answers are satisfactory as the US general public is my main target audience.
 
-**“What do you think is the main purpose of this page?”
+**“What do you think is the main purpose of this page?”**
 
 They were all able to identify my main purposes of this project, which is to raise awareness to the Anti-Asian hate crimes issues, to empathize with the victims, and to stop this problem.
 
@@ -72,18 +72,18 @@ Person 2: “It is effective. It stirs up the feelings, while telling how import
 
 Person 3: “The web page is very informative. For the persuasiveness, I felt like it’s almost there. The photos and the videos bring a lot of emotions, but I feel that more photos towards the end, and a solid call-to-action will make it even more persuasive.
 
-**“Which section do you find the most interesting or engaging? and why?”
+**“Which section do you find the most interesting or engaging? and why?”**
 
 All of them liked the opening video. Person 1 said they were really moved by the cases summary section and the narrative below it that a hate crime might be happening to someone at this moment. Person 2 also loved the cases summary, saying that it was alarming to see a lot of cases in February alone, combined with the section below it, which talked about the fact that above cases were only the cases reported to the police and there might be other cases unreported. Person 3 loved the use of the photos, especially the grandma and the photo in the last section.
 
 “Which section do you think is the most confusing or not the most effective? and why?”
 All of them were confused by the bar chart visualizing the proportion of elders being physically assaulted. They all said that it took them some time to understand it. When I further asked them to explain their understanding of the visualization, they interpreted the chart in different ways, which is not my intention.
 
-**“What would you do differently to make that section better?”
+**“What would you do differently to make that section better?”**
 
 They provided me with a lot of recommendations to improve the bar chart. Person 1 suggested that I change the chart title and the labels, also the narratives above and below the chart. Person 2 suggested that I add a line to that chart indicating that the second bar is the subset of the first bar. Person 3 suggested that I use different shades of yellow and change the chart labels.
 
-**“Are there any other thoughts or comments that you would like to share?”
+**“Are there any other thoughts or comments that you would like to share?”**
 
 Person 1: “I really like the color choice of the overall page. The dark theme goes well with the overall mood of the story. However, I feel a little disconnection between the covid cases and the hate crimes and I need to scroll down to finally understand the linkage between the two.”
 
