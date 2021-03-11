@@ -7,7 +7,7 @@ In this part, I focused on obtaining insights and feedback from user research. T
 
 Since I created detailed sketches and crafted a storyline during part I of the project, it was easier to continue building on them in part II. I decided to further develop all the sketches into a prototype using Shorthand, the actual tool that I will use for my final presentation. As my project has a lot of emotional elements in it, I found it more efficient to build a very high fidelity prototype that includes photos, videos, texts, and actual data visualizations that I plan to incorporate into the final project so that I can test them all with the users and obtain user feedback.
 
-The link to the prototype is included here: https://preview.shorthand.com/zsnnzITqr9IOgY5j
+The link to the prototype is included here: [Shorthand Prototype Link](https://preview.shorthand.com/zsnnzITqr9IOgY5j)
 
 ## Step 2: Preparing for user interviews
 
