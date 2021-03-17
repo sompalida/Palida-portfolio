@@ -20,11 +20,17 @@ In summary, I started the project by identifying the target audience and the pur
 
 There are several key takeaways that I learned from this course. 
 
-1. The story progression planning is very important in creating a persuasive story. Prior to taking this course, I did not usually plan the story progression in my presentations. Instead, I put all the information down without much thought. Creating the storyboard made the story more smooth and engaging, and it provided a sense check tool that I could quickly review and show to others to get the feedback. 
+1. The story progression planning is very important in creating a persuasive story. 
 
-2. The audience preferred data visualizations that are simple and easy to understand. During the sketching and the prototyping processes, I created a few versions of the same chart and asked users for their feedback. Although some versions of the sketches provided more comprehensive information, they sometimes distracted the audience from the key messages of the chart. Moreover, the too complicated chart required a long time to comprehend, which made the user feel less engaged from the story and the mood that we created during the earlier part of the story.
+Prior to taking this course, I did not usually plan the story progression in my presentations. Instead, I put all the information down without much thought. Creating the storyboard made the story more smooth and engaging, and it provided a sense check tool that I could quickly review and show to others to get the feedback. 
 
-3. Colors are effective in conveying the mood and create cohesiveness to the story. I utilized the course concept of the moodboard to pick a color theme for my final project. As the story I picked was dramatic, shocking, and sad, I picked black and white photos for the most part of my project, and transitioned to more colorful photos towards the end where I planned the more positive mood for my audience. I also used the same color accents for my narratives and visualizations. The colors were helpful in making the story smooth and cohesive. It turned out that the color theme worked very well and I received compliments from the users during the interview and a classmate during the project presentation.
+2. The audience preferred data visualizations that are simple and easy to understand. 
+
+During the sketching and the prototyping processes, I created a few versions of the same chart and asked users for their feedback. Although some versions of the sketches provided more comprehensive information, they sometimes distracted the audience from the key messages of the chart. Moreover, the too complicated chart required a long time to comprehend, which made the user feel less engaged from the story and the mood that we created during the earlier part of the story.
+
+3. Colors are effective in conveying the mood and create cohesiveness to the story. 
+
+I utilized the course concept of the moodboard to pick a color theme for my final project. As the story I picked was dramatic, shocking, and sad, I picked black and white photos for the most part of my project, and transitioned to more colorful photos towards the end where I planned the more positive mood for my audience. I also used the same color accents for my narratives and visualizations. The colors were helpful in making the story smooth and cohesive. It turned out that the color theme worked very well and I received compliments from the users during the interview and a classmate during the project presentation.
 
 Overall, the final project was a great way to get my hands dirty with a real topic I am interested in, as well as an excellent opportunity to try the steps in story development and data visualization that I learned in class.
 
