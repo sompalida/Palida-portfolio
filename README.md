@@ -10,6 +10,9 @@ I'm taking the Telling Stories with Data course this mini semester. I worked wit
 ## Portfolio
 I'll post my data visualizations here!!
 
+
+[Final Project - #StopAsianHate](https://carnegiemellon.shorthandstories.com/stopasianhate/index.html)**
+
 [Assignment 2 - OECD Data](https://sompalida.github.io/Palida-portfolio/oecd_data.html)
 
 [Assignment 3&4 Critique by Design - HBCU Enrollment Data](https://sompalida.github.io/Palida-portfolio/assignment3-4.html)
@@ -17,4 +20,6 @@ I'll post my data visualizations here!!
 [Final Project Part I - Overview](https://sompalida.github.io/Palida-portfolio/final_project_part1.html)
 
 [Final Project Part II - Wireframing and User Research](https://sompalida.github.io/Palida-portfolio/final_project_part2.html)
+
+[Final Project Part III - Final Modification](https://sompalida.github.io/Palida-portfolio/final_project_part3.html)
 
